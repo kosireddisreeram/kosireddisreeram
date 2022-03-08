@@ -4,7 +4,7 @@ I am  Sreeram,web designer,UI/UX developer and hands on full stack web developme
 
 <h2>:mailbox: Reach me out!</h2>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Kosireddisreeram-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kosireddiSreeram)](https://twitter.com/SreeramKosired3)   [![Mail Badge](https://img.shields.io/badge/-kosireddiSreeram-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kosireddisreeram@gmail.com)
+[![Twitter Badge align="center"](https://img.shields.io/badge/-@Kosireddisreeram-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kosireddiSreeram)](https://twitter.com/SreeramKosired3)   [![Mail Badge](https://img.shields.io/badge/-kosireddiSreeram-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kosireddisreeram@gmail.com)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: kosireddisreeram@gmail.com.
   
