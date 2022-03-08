@@ -1,4 +1,4 @@
-<h1  style="text-align:center;"> Hi I'm   Kosireddi Sreeram <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h1> Hi I'm   Kosireddi Sreeram <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 I'm Sreeram  an aspiring Full Stack Web Developer .
 
@@ -12,7 +12,7 @@ I'm Sreeram  an aspiring Full Stack Web Developer .
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=fff)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=fff)](#)  [![Mongo Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=green&logo=MongoDB&logoColor=fff)](#)  [![HTML Badge](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=E34F26&logo=HTML5&logoColor=fff)](#)  [![css3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&labelColor=1572B6&logo=CSS3&logoColor=fff)](#)  [![bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=7952B3&logo=Bootstrap&logoColor=fff)](#)  [![github Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=181717&logo=GitHub&logoColor=fff)]
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=fff)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=fff)](#)  [![Mongo Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=green&logo=MongoDB&logoColor=fff)](#)  [![HTML Badge](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=E34F26&logo=HTML5&logoColor=fff)](#)  [![css3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&labelColor=1572B6&logo=CSS3&logoColor=fff)](#)  [![bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=7952B3&logo=Bootstrap&logoColor=fff)](#)  ![github Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=181717&logo=GitHub&logoColor=fff)
 
 
 
