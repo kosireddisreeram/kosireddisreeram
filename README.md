@@ -13,7 +13,7 @@ I'm Sreeram  an aspiring Full Stack Web Developer .
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=JavaScript&logoColor=fff">
 <img src="https://img.shields.io/badge/-css3-1572B6?logo=CSS3&logoColor=fff">
 <img src="https://img.shields.io/badge/-css3-1572B6?logo=CSS3&logoColor=fff"> 
