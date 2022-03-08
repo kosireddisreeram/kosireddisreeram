@@ -14,13 +14,7 @@ I'm Sreeram  an aspiring Full Stack Web Developer .
 <!-- TODO: Make technologies links takes you to repositories -->
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=fff)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=fff)](#)  [![Mongo Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=green&logo=MongoDB&logoColor=fff)](#)  [![HTML Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=green&logo=MongoDB&logoColor=fff)](#)  [![css3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&labelColor=1572B6&logo=CSS3&logoColor=fff)](#)  [![bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=7952B3&logo=Bootstrap&logoColor=fff)](#)  [![github Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=181717&logo=GitHub&logoColor=fff)]
 
-<img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=JavaScript&logoColor=fff">
-<img src="https://img.shields.io/badge/-css3-1572B6?logo=CSS3&logoColor=fff">
-<img src="https://img.shields.io/badge/-css3-1572B6?logo=CSS3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/-css3-1572B6?logo=CSS3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=fff">
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff">
-<img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=fff">
+
 
 
 
