@@ -14,7 +14,7 @@ I'm Sreeram  an aspiring Full Stack Web Developer .
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![html Badge](https://img.shields.io/badge/-html-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=#E34F26)](#)
+[![html Badge](https://img.shields.io/badge/-html-#E34F26?style=for-the-badge&labelColor=black&logo=node.js&logoColor=#E34F26)](#)
 
 #### Github Stats
 
