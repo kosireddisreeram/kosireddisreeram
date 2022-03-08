@@ -17,7 +17,7 @@ I'm Sreeram  an aspiring Full Stack Web Developer .
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=kosireddisreeram&count_private=true&theme=tokyonight&hide=contribs,prs)
+![kosireddi sreeram's github stats](https://github-readme-stats.vercel.app/api?username=kosireddisreeram&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 
 
